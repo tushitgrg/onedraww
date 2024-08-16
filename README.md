@@ -16,20 +16,19 @@ npm or yarn
 Installation
 Clone the repository:
 
-bash
 Copy code
 git clone https://github.com/tushitgrg/onedraww.git
 cd drawing-canvas-app
 Install the dependencies:
 
-bash
+
 Copy code
 npm install
 # or
 yarn install
 Start the development server:
 
-bash
+
 Copy code
 npm start
 # or
